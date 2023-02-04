@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dr-bosse
-- 👀
-- 🌱
-- 💞️
-- 📫
+- 🐺 Hi, I’m @bralfur 
+- 🐺   I have backend
+- 🐺   I have frontend
+- 🐺   I have halm charts
+- 🐺   I have dots
 
 <!---
-dr-bosse/dr-bosse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bralfur/bralfur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
