@@ -1,8 +1,8 @@
 - 🐺 Hi, I’m @bralfur 
-- 🐺   I have backend
-- 🐺   I have frontend
-- 🐺   I have halm charts
-- 🐺   I have dots
+- 🐺 - I have backend
+- 🐺 - I have frontend
+- 🐺 - I have helm charts
+- 🐺 - I have dots
 
 <!---
 bralfur/bralfur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
